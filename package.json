@@ -1,0 +1,20 @@
+{
+  "name": "motivara_bot",
+  "version": "1.0.0",
+  "description": "This project is for a discord bot that sends inspirational quotes. Built using Nodejs, JavaScript, and the discord node modules",
+  "homepage": "https://github.com/Rome-1313/Motivara_Bot#readme",
+  "bugs": {
+    "url": "https://github.com/Rome-1313/Motivara_Bot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rome-1313/Motivara_Bot.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

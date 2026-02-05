@@ -12,7 +12,7 @@ const client = new Client({
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}`);
 
-
+    channel.send('Hello! I am now online and ready to assist you.');
 cron.schedule('0 9 * * *', () => {
         const channel = client.channels.cache.get('YOUR_CHANNEL_ID');
         if (channel) {
